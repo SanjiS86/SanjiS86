@@ -1,4 +1,4 @@
-### I am Sanzhi (Sangie) and you are reading my development story! 
+### I am <a href="https://twitter.com/Sanji_vals">Sanzhi (Sangie)</a> and you are reading my development story! 
 
 Former institutional trader and treasurer (12 years of experience). 
 
@@ -10,7 +10,7 @@ I decided to learn programming because I wanted to automate my financial models 
 
 🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛
 
-In September 2021 I learned Swift and in December 2021 I made an iOS app for stock inbestors called <a href="https://apps.apple.com/us/app/stock-target-price/id1589969451">Stock Target Price</a>. This is a stock target price calculator, investment ideas geenrator and buy signal. It is very difficult to calculate a stock fair value because all the models require analysts assymptions and long 10 year forecasts of a company's financial statements. This is very time consuming process and it is difficult even for experienced financial analysts. Not all retail traders/investors can do it. I decided to help retail investors and build an app that calculates stock target price in seconds and provides great investment ideas. Now investors can know what is their selected stock growth potential and buy amazing stocks. In August 2022 I completely finished the project. Stock Target Price v1.11 This app does the following:
+<p style="text-align: justify;">In September 2021 I learned Swift and in December 2021 I made an iOS app for stock investors called <a href="https://apps.apple.com/us/app/stock-target-price/id1589969451">Stock Target Price</a>. This is a stock target price calculator, investment ideas geenrator and buy signal. It is very difficult to calculate a stock fair value because all the models require analysts assymptions and long 10 year forecasts of a company's financial statements. This is very time consuming process and it is difficult even for experienced financial analysts. Not all retail traders/investors can do it. I decided to help retail investors and build an app that calculates stock target price in seconds and provides great investment ideas. Now investors can know what is their selected stock growth potential and buy amazing stocks. In August 2022 I completely finished the project. Stock Target Price v1.11 This app does the following:</p>
 
 1. Calculates selected stock target price (fair value) and growth potential.
 2. Defines great time to trade stocks for the short term.
