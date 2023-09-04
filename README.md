@@ -8,7 +8,13 @@ Currently iOS, web developer of financial apps (2 years).
 
 I decided to learn programming because I wanted to automate my financial models and provide fast and simple solutions for investors who have no time and knowledge to udertake complicated equity research and manage risk. 
 
-My biggest proud is Diversset, stock screener, ETF screener and portfolio builder. <a href="https://twitter.com/Sanji_vals/status/1698394450161012777?s=20">Short development story</a>
+My biggest proud is Diversset, stock screener, ETF screener and portfolio builder. 
+
+<a href="https://twitter.com/Sanji_vals/status/1698394450161012777?s=20">Short development story</a>
+
+<a href="https://diversset.quora.com/">Long development story</a>
+
+Video tutorial ⬇️
 
 [![Stock and ETF search tool. Investment portfolio builder. Búsqueda de valores. creador de carteras.](https://img.youtube.com/vi/UEUqat0WRpU/0.jpg)](https://www.youtube.com/watch?v=UEUqat0WRpU)
 
