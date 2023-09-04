@@ -2,15 +2,21 @@
 
 Former institutional trader and treasurer (12 years of experience). 
 
-Former Financial lecturer (2 years of experience).
+Former Financial lecturer (2 years of experience). Have online <a href="https://www.udemy.com/course/financial-instruments-and-analysis/?referralCode=CFD1565180443B63D1F7">stock market crash course</a> on Udemy
 
-Currently iOS, web developer of financial apps (2 years).
+Currently iOS, web developer of financial apps (2 years). 
 
 I decided to learn programming because I wanted to automate my financial models and provide fast and simple solutions for investors who have no time and knowledge to udertake complicated equity research and manage risk. 
 
+My biggest proud is Diversset, stock screener, ETF screener and portfolio builder. <a href="https://twitter.com/Sanji_vals">Short development story</a>
+
+[![Stock and ETF search tool. Investment portfolio builder. Búsqueda de valores. creador de carteras.](https://img.youtube.com/vi/UEUqat0WRpU/0.jpg)](https://www.youtube.com/watch?v=UEUqat0WRpU)
+
 🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛
 
-<p style="text-align: justify;">In September 2021 I learned Swift and in December 2021 I made an iOS app for stock investors called <a href="https://apps.apple.com/us/app/stock-target-price/id1589969451">Stock Target Price</a>. This is a stock target price calculator, investment ideas geenrator and buy signal. It is very difficult to calculate a stock fair value because all the models require analysts assymptions and long 10 year forecasts of a company's financial statements. This is very time consuming process and it is difficult even for experienced financial analysts. Not all retail traders/investors can do it. I decided to help retail investors and build an app that calculates stock target price in seconds and provides great investment ideas. Now investors can know what is their selected stock growth potential and buy amazing stocks. In August 2022 I completely finished the project. Stock Target Price v1.11 This app does the following:</p>
+In September 2021 I learned Swift and in December 2021 I made an iOS app for stock investors called <a href="https://apps.apple.com/us/app/stock-target-price/id1589969451">Stock Target Price</a>. This is a stock target price calculator, investment ideas geenrator and buy signal. It is very difficult to calculate a stock fair value because all the models require analysts assymptions and long 10 year forecasts of a company's financial statements. This is very time consuming process and it is difficult even for experienced financial analysts. Not all retail traders/investors can do it. I decided to help retail investors and build an app that calculates stock target price in seconds and provides great investment ideas. Now investors can know what is their selected stock growth potential and buy amazing stocks. In August 2022 I completely finished the project. Stock Target Price v1.11 
+
+This app does the following:
 
 1. Calculates selected stock target price (fair value) and growth potential.
 2. Defines great time to trade stocks for the short term.
@@ -45,5 +51,4 @@ Stocks 2 buy does the following:
 - 🤔 I’m looking for help with design, project management, SMM.
 - 💬 Ask me about valuation, investments, risk management, portfolio management, travels, guitar.
 - 📫 How to reach me: skobzhan@diversset.com
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: sleep-walker
+
