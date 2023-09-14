@@ -20,6 +20,10 @@ Video tutorial ⬇️
 
 🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Complete investing guidance in 1 post!<br> <br>Since my X page is devoted to stocks I will write about equities and ETFs. Investing and being profitable on a longer-term scale is easy. Just follow these steps: <br><br>#1 Choose a good brokerage company to trade financial instruments.<br><br>#2… <a href="https://t.co/VeinSVH1xF">pic.twitter.com/VeinSVH1xF</a></p>&mdash; Sanzhi Kobzhan (@Sanji_vals) <a href="https://twitter.com/Sanji_vals/status/1702301446408929546?ref_src=twsrc%5Etfw">September 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛
+
 In September 2021 I learned Swift and in December 2021 I made an iOS app for stock investors called <a href="https://apps.apple.com/us/app/stock-target-price/id1589969451">Stock Target Price</a>. This is a stock target price calculator, investment ideas geenrator and buy signal. It is very difficult to calculate a stock fair value because all the models require analysts assymptions and long 10 year forecasts of a company's financial statements. This is very time consuming process and it is difficult even for experienced financial analysts. Not all retail traders/investors can do it. I decided to help retail investors and build an app that calculates stock target price in seconds and provides great investment ideas. Now investors can know what is their selected stock growth potential and buy amazing stocks. In August 2022 I completely finished the project. Stock Target Price v1.11 
 
 This app does the following:
