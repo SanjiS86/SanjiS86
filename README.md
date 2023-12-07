@@ -62,3 +62,9 @@ Stocks 2 buy does the following:
 - 💬 Ask me about valuation, investments, risk management, portfolio management, travels, guitar.
 - 📫 How to reach me: skobzhan@diversset.com
 
+🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛
+
+Recently I made two great updates on Diversset webpage:
+1) I made a <a href="https://diversset.com/stockMarketBlog">Stock Market Blog</a> where I share educational articles on stock selection, equity valuation, fundamental analysis, technical analysis, portfolio management and risk management.
+2) I created <a href="https://diversset.com/ideas">Stock Market Forecast</a> and Analytics section where investors can read monthly analytics and forecasts for the US stock market and understand what events were driving the market in the past month and what to expect in coming month. 
+
