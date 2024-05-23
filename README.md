@@ -14,7 +14,7 @@ My biggest proud is Diversset, stock screener, ETF screener and portfolio builde
 
 <a href="https://diversset.quora.com/">Long development story</a>
 
-<a href="[https://diversset.quora.com/](https://site.financialmodelingprep.com/how-to/How-to-understand-what-people-think-of-your-selected-stock-and-whether-your-stock-will-be-popular)">Build your first simple stock market app</a>
+<a href="https://diversset.quora.com/](https://site.financialmodelingprep.com/how-to/How-to-understand-what-people-think-of-your-selected-stock-and-whether-your-stock-will-be-popular">Build your first simple stock market app</a>
 
 <a href="https://diversset.quora.com/](https://x.com/Sanji_vals/status/1702301446408929546">Complete investing guidance in 1 post</a>
 
