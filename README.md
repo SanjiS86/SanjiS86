@@ -28,6 +28,14 @@
 
 ---
 
+### 💖 Support My Work
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/SanjiS86)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/SanjiS86)
+
+---
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18349332/215538555-d3b42914-607d-4b33-bd4f-ef80a1540cb3.gif" alt="Shiny Stars" width="100"/>
   <img src="https://user-images.githubusercontent.com/18349332/215538555-d3b42914-607d-4b33-bd4f-ef80a1540cb3.gif" alt="Shiny Stars" width="100"/>
