@@ -45,21 +45,6 @@
 
 **Bitcoin (BTC) and USDT addresses:** Visit my [Support Page](https://github.com/SanjiS86/SanjiS86/blob/main/support.html) to copy the addresses.
 
-<script>
-  function copyToClipboard(currency) {
-    let address;
-    if (currency === 'bitcoin') {
-      address = 'bc1qar83s9jgcfxhjw0t5nl9qak02j3cqefxwz0c5n';
-    } else if (currency === 'usdt') {
-      address = 'TETHER_ADDRESS_HERE';
-    }
-    navigator.clipboard.writeText(address).then(function() {
-      alert(currency.toUpperCase() + ' address copied to clipboard');
-    }, function(err) {
-      console.error('Async: Could not copy text: ', err);
-    });
-  }
-</script>
 
 ### 🪄✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
