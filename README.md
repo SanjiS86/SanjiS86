@@ -43,7 +43,7 @@
 
 ### 💖 Support My Work with Cryptocurrency
 
-**Bitcoin (BTC) and USDT addresses:** Visit my [Support Page](https://github.com/SanjiS86/SanjiS86/blob/main/support.html) to copy the addresses.
+**Bitcoin (BTC) and USDT addresses:** Visit my [Support Page](https://github.com/SanjiS86/SanjiS86/support.html) to copy the addresses.
 
 
 ### 🪄✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
