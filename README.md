@@ -30,8 +30,6 @@
 
 ### 💖 Support My Work
 
-[![Sponsor through crypto]](https://diversset.com/help)
-
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sanzhikobzf)
 
 <div align="center">
@@ -42,6 +40,26 @@
 </div>
 
 ---
+
+### 💖 Support My Work with Cryptocurrency
+
+<div align="center">
+
+**Bitcoin (BTC):**
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+`1LL5cSjh5pkxWFXgVkmtLjCSWV49YKoa9m`
+
+<br>
+
+**Tether (USDT):**
+
+![USDT](https://img.shields.io/badge/USDT-007A78?style=for-the-badge&logo=tether&logoColor=white)
+
+`TJLGsdx67pL7RzwaqQNMz1i4EqY59QWE3r`
+
+</div>
 
 ### 🪄✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
