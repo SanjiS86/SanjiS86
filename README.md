@@ -43,23 +43,33 @@
 
 ### 💖 Support My Work with Cryptocurrency
 
-<div align="center">
+#### **Click on logo to Copy Address**
 
-**Bitcoin (BTC):**
+<a href="#" onclick="copyToClipboard('bitcoin')">
+  <img src="https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Badge"/>
+</a>
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+<a href="#" onclick="copyToClipboard('usdt')">
+  <img src="https://img.shields.io/badge/USDT-007A78?style=for-the-badge&logo=tether&logoColor=white" alt="USDT Badge"/>
+</a>
 
-`1LL5cSjh5pkxWFXgVkmtLjCSWV49YKoa9m`
+---
 
-<br>
-
-**Tether (USDT):**
-
-![USDT](https://img.shields.io/badge/USDT-007A78?style=for-the-badge&logo=tether&logoColor=white)
-
-`TJLGsdx67pL7RzwaqQNMz1i4EqY59QWE3r`
-
-</div>
+<script>
+  function copyToClipboard(currency) {
+    let address;
+    if (currency === 'bitcoin') {
+      address = 'bc1qar83s9jgcfxhjw0t5nl9qak02j3cqefxwz0c5n';
+    } else if (currency === 'usdt') {
+      address = 'TETHER_ADDRESS_HERE';
+    }
+    navigator.clipboard.writeText(address).then(function() {
+      alert(currency.toUpperCase() + ' address copied to clipboard');
+    }, function(err) {
+      console.error('Async: Could not copy text: ', err);
+    });
+  }
+</script>
 
 ### 🪄✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
