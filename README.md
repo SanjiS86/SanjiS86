@@ -43,17 +43,7 @@
 
 ### 💖 Support My Work with Cryptocurrency
 
-#### **Click on logo to Copy Address**
-
-<a href="#" onclick="copyToClipboard('bitcoin')">
-  <img src="https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Badge"/>
-</a>
-
-<a href="#" onclick="copyToClipboard('usdt')">
-  <img src="https://img.shields.io/badge/USDT-007A78?style=for-the-badge&logo=tether&logoColor=white" alt="USDT Badge"/>
-</a>
-
----
+**Bitcoin (BTC) and USDT addresses:** Visit my [Support Page](https://github.com/SanjiS86/SanjiS86/blob/main/support.html) to copy the addresses.
 
 <script>
   function copyToClipboard(currency) {
