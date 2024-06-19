@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support My Work</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f9;
+        }
+        .badge {
+            margin: 10px;
+            cursor: pointer;
+        }
+        .copied-message {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: green;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Support My Work with Cryptocurrency</h1>
+
+<div>
+    <a href="#" onclick="copyToClipboard('bitcoin')">
+        <img class="badge" src="https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Badge"/>
+    </a>
+    <a href="#" onclick="copyToClipboard('usdt')">
+        <img class="badge" src="https://img.shields.io/badge/USDT-007A78?style=for-the-badge&logo=tether&logoColor=white" alt="USDT Badge"/>
+    </a>
+</div>
+
+<div id="copied-message" class="copied-message">Address copied to clipboard!</div>
+
+<script>
+    function copyToClipboard(currency) {
+        let address;
+        if (currency === 'bitcoin') {
+            address = '1LL5cSjh5pkxWFXgVkmtLjCSWV49YKoa9m';
+        } else if (currency === 'usdt') {
+            address = 'TJLGsdx67pL7RzwaqQNMz1i4EqY59QWE3r';
+        }
+        navigator.clipboard.writeText(address).then(function() {
+            const message = document.getElementById('copied-message');
+            message.style.display = 'block';
+            setTimeout(() => {
+                message.style.display = 'none';
+            }, 2000);
+        }, function(err) {
+            console.error('Async: Could not copy text: ', err);
+        });
+    }
+</script>
+
+</body>
+</html>
