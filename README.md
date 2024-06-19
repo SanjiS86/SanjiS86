@@ -1,8 +1,6 @@
 <h1 align="center">🪄✨ Welcome to My Professional Portfolio ✨🪄</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18349332/215538555-d3b42914-607d-4b33-bd4f-ef80a1540cb3.gif" alt="Starry Night Sky" width="200"/>
-</p>
+
 
 ---
 
