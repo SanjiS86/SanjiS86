@@ -1,8 +1,6 @@
 <h1 align="center">🪄✨ Welcome to My Professional Portfolio ✨🪄</h1>
 
-<p align="center">
-
-</p>
+<p align="center"></p>
 
 ---
 
@@ -46,6 +44,16 @@
 
 ---
 
+<h3 align="center">💌 Subscribe to My Newsletter</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7202642515169021952">
+    <img src="https://img.shields.io/badge/Newsletter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7202642515169021952" alt="Newsletter">
+  </a>
+</p>
+
+---
+
 <h3 align="center">💖 Support My Work</h3>
 
 <p align="center">
@@ -65,6 +73,7 @@
 ---
 
 <h3 align="center">🪄✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</h3>
+
 
 
 
