@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanzhikobzhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanzhikobzhan/" alt="LinkedIn" width="250" height="40" style="font-size: 12px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanzhikobzhan/" alt="LinkedIn" width="200" height="40" style="font-size: 12px;">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://diversset.com/stockMarketiOSApps">
-    <img src="https://img.shields.io/badge/My%20Applications-1877F2?style=for-the-badge&logo=apple&logoColor=white&link=https://diversset.com/stockMarketiOSApps" alt="My Applications" width="300" height="40" style="font-size: 12px;">
+    <img src="https://img.shields.io/badge/My%20Applications-1877F2?style=for-the-badge&logo=apple&logoColor=white&link=https://diversset.com/stockMarketiOSApps" alt="My Applications" width="200" height="40" style="font-size: 12px;">
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/SanjiS86?tab=repositories">
-    <img src="https://img.shields.io/badge/Free%20Apps-000000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SanjiS86?tab=repositories" alt="Free Apps" width="250" height="40" style="font-size: 12px;">
+    <img src="https://img.shields.io/badge/Free%20Apps-000000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SanjiS86?tab=repositories" alt="Free Apps" width="150" height="40" style="font-size: 12px;">
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7202642515169021952">
-    <img src="https://img.shields.io/badge/Newsletter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7202642515169021952" alt="Newsletter" width="250" height="40" style="font-size: 12px;">
+    <img src="https://img.shields.io/badge/Newsletter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7202642515169021952" alt="Newsletter" width="200" height="40" style="font-size: 12px;">
   </a>
 </p>
 
