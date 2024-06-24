@@ -23,6 +23,7 @@
 </p>
 
 ---
+<h3 align="center">📈 Stock analyzer</h3>
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/stock-analyzer/ljgfdfgcjjeefblpnhjjmapccgpfnihk">
     <img src="https://img.shields.io/badge/Google%20Chrome%20Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://chromewebstore.google.com/detail/stock-analyzer/ljgfdfgcjjeefblpnhjjmapccgpfnihk" alt="Google Chrome Extension">
