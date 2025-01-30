@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://www.stocks2buynow.com">
-    <img src="https://img.shields.io/badge/Stock%20PredictionApp-4285F4?style=for-the-badge&logo=app&logoColor=white&link=https://www.stocks2buynow.com" alt="Stocks to buy now" width="300" height="40" style="font-size: 12px;">
+    <img src="https://img.shields.io/badge/Stock%20Prediction%20App-4285F4?style=for-the-badge&logo=app&logoColor=white&link=https://www.stocks2buynow.com" alt="Stocks to buy now" width="300" height="40" style="font-size: 12px;">
   </a>
 </p>
 
