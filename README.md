@@ -33,6 +33,16 @@
 
 ---
 
+<h3 align="center">📈 Stocks To Buy Now</h3>
+
+<p align="center">
+  <a href="https://www.stocks2buynow.com">
+    <img src="https://img.shields.io/badge/Educational%20Blog-4285F4?style=for-the-badge&logo=blogger&logoColor=white&link=https://diversset.com/stockMarketBlog" alt="Educational Blog" width="300" height="40" style="font-size: 12px;">
+  </a>
+</p>
+
+---
+
 <h3 align="center">📈 Stock Market Content Writer</h3>
 
 <p align="center">
